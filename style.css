@@ -24,7 +24,7 @@ html {
   font-weight: bold;
   font-size: 200%;
   position: absolute;
-  top: 160%;
+  top: 140%;
   left: 10%;
   z-index: 20;
   color: white;
@@ -33,7 +33,7 @@ html {
 
 .paragraph2 {
   position: absolute;
-  top: 170%;
+  top: 150%;
   left: 10%;
   z-index: 20;
   color: white;
@@ -42,9 +42,9 @@ html {
 
 .header3 {
   font-weight: bold;
-  font-size: 200%;
+  font-size: 300%;
   position: absolute;
-  top: 300%;
+  top: 270%;
   left: 10%;
   z-index: 20;
   color: white;
@@ -54,7 +54,7 @@ html {
 .paragraph3 {
   
   position: absolute;
-  top: 250%;
+  top: 300%;
   left: 10%;
   z-index: 20;
   color: white;
@@ -63,9 +63,9 @@ html {
 
 .header4 {
   font-weight: bold;
-  font-size: 200%;
+  font-size: 300%;
   position: absolute;
-  top: 370%;
+  top: 410%;
   left: 10%;
   z-index: 20;
   color: white;
@@ -74,9 +74,9 @@ html {
 
 .header5 {
   font-weight: bold;
-  font-size: 200%;
+  font-size: 300%;
   position: absolute;
-  top: 470%;
+  top: 570%;
   left: 10%;
   z-index: 20;
   color: white;
@@ -85,9 +85,9 @@ html {
 
 .header6{
   font-weight: bold;
-  font-size: 200%;
+  font-size: 300%;
   position: absolute;
-  top: 570%;
+  top: 700%;
   left: 10%;
   z-index: 20;
   color: white;
@@ -97,9 +97,9 @@ html {
 
 .header7 {
   font-weight: bold;
-  font-size: 200%;
+  font-size: 300%;
   position: absolute;
-  top: 670%;
+  top: 850%;
   left: 10%;
   z-index: 20;
   color: white;
